@@ -1,0 +1,19 @@
+  
+h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
+h1 {font-size: 44px;}
+h1 {
+    text-align: center;
+    background-color: #ffcbdb;
+    color: white;
+}
+h2 {
+   color: black;
+   font-size: 24px;
+}
+.bixo loko img {
+	image-position: right top;
+}
+body {
+	background-image:  linear-gradient, url('https://cdn.discordapp.com/attachments/825837611897454603/828390380390842388/unknown.png');
+}
+	
