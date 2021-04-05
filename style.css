@@ -4,6 +4,9 @@ h1 {font-size: 74px;}
 h1 {
     text-align: center;
     color: white;
+	user-select: text;
+	margin-left: -72px;
+	padding-left: 72px;
 }
 h2 {
    color: white;
